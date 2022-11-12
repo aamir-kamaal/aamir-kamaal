@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aamir-kamaal
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Web development | API Development
+- 🌱 I’m currently learning DSA | Problem Solving
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aamir.kamaal@gmail.com
 
